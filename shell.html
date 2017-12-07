@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+</head>
+
+<body>
+	<h1>Unix Shell</h1>
+	<div>
+		<h3>Assignment</h3>
+		<p>
+			For CPSC 405 - Operating Systems at UMW one assignment is to create a shell that mimics the basic functionalities of standard unix shells such as Bash. The
+			purpose of this assignment was to illustrate how processes in an operating system are managed and controlled. By implementing the program whose job it is to 
+			spawn new processes, I was able to gain a deeper insight into how processes function in general as well as gaining valuable experience using C to write programs
+			in the context of operating system development.
+		</p>
+	</div>
+	<div>
+		<h3>Take Aways & Lessons Learned</h3>
+		<p>
+			During the development of this shell, I learned a lot about unix processes and how they are organized within a system. I also gained some useful experience 
+			programming in C and parsing text without the use of any libraries or pre-made tools.
+		</p>
+	</div>
+	<div>
+		<h3>Technical Description</h3>
+		<p>
+			The command line interpreter is built using C only. Features include:
+		</p>
+		<ul>
+			<li>
+				Ability to call any available unix system calls.
+			</li>
+			<li>
+				Output redirection.
+			</li>
+			<li>
+				Background jobs.
+			</li>
+			<li>
+				Batch file execution.
+			</li>
+		</ul>
+		<p>
+			The codebase be found <a href="https://github.com/taylordohmen/shell">here</a>. Installation requires GNU Make and has been tested only on Ubuntu Linux.
+			To compile the intepreter, clone the given git repository and run make.
+		</p>
+	</div>
+</body>
+
+</html>
