@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taylor Dohmen"
 title_separator          : "-"
 name                     : &name "Taylor Dohmen"
-description              : &description "PhD student at the University of Colorado, Boulder"
+description              : "" #&description "PhD student at the University of Colorado, Boulder"
 url                      : https://taylordohmen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taylordohmen.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Taylor Dohmen"
   avatar           : "profile.png"
   bio              : 
-  location         : "Boulder, Colorado, USA"
+  location         : "Lafayette, Colorado, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=ZO9MhVgAAAAJ&hl=en"
   email            : "taylor.dohmen@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-5722-4847"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
