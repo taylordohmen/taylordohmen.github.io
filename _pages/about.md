@@ -10,7 +10,7 @@ redirect_from:
 
 I recently graduated with a PhD in computer science from the University of Colorado Boulder, where I studied under the advisement of Professor [Ashutosh Trivedi](https://ashut.bitbucket.io/).
 
-My research interests are broadly centered around theoretical computer science, including topics related to automata theory, optimization & leraning, formal logic, and computational complexity.
+My research interests are broadly centered around theoretical computer science, including topics related to automata theory, optimization & learning, formal logic, and computational complexity.
 
 ---
 
