@@ -31,8 +31,15 @@ Publications
   
 ---
 
+Dissertation
+======
+
+[Regular Transformations In Sequential Optimization & Reinforcement Learning](https://www.proquest.com/docview/3056723535)
+
+---
+
 Teaching
-=====
+======
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
